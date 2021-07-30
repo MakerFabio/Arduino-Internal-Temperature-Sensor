@@ -6,7 +6,7 @@ This video shows my findings on Arduino internal temperature sensor readings wit
 I tempt 2 reading method and tested them on 4 boards and 2 temperatures
 With and without calibration values (TS_GAIN, TS_OFFSET), stored in the signature row.
 
-Please read the video to understand the limitation of the funciton implemented in this source code
+Please see the video to understand the limitation of the funciton implemented in this source code
 
 thanks
 Fabio
